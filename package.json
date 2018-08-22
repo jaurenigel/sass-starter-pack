@@ -1,0 +1,21 @@
+{
+  "name": "sass-starter",
+  "version": "1.0.0",
+  "description": "sass boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [
+    "sass",
+    "auto-reload",
+    "starter-pack"
+  ],
+  "author": "Nigel Jaure <nigeljaure@creativelab.co.zw> (https://www.creativelab.co.zw)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
